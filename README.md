@@ -14,6 +14,20 @@ The Kubernetes Goat is designed to be an intentionally vulnerable cluster enviro
 
 ![Kubernetes Goat Home](./kubernetes-goat-home.png)
 
+## Upcoming Training's and Sessions
+
+**Black Hat USA 2021**
+
+["A Practical Approach to Breaking & Pwning Kubernetes Clusters"](https://rebrand.ly/bhusa21) is a commercial training with completely hands-on approach by [Madhu Akula](https://madhuakula.com) at upcoming [Black Hat USA 2021](https://rebrand.ly/bhusa21) to learn more about Kubernets Security.
+
+[![Black Hat USA 2021 Training](./images/madhuakula-blackhat-usa-2021-kubernetes-security.png)](https://rebrand.ly/bhusa21)
+
+**SANS CloudSecNext Summit 2021**
+
+"Kubernetes Goat - Interactive Kubernetes Security Learning Playground" at upcoming  [SANS CloudSecNext Summit 2021](https://www.sans.org/event/cloudsecnext-summit-2021/summit-agenda) to learn more about Kubernets Goat.
+
+[![SANS CloudSecNext Summit 2021](./images/madhuakula-sans-cloudsecnext-summit-2021.jpeg)](https://www.sans.org/event/cloudsecnext-summit-2021/summit-agenda)
+
 ## Recent Kubernetes Goat Presentations
 
 **OWASP Bay Area Meetup**
@@ -84,6 +98,7 @@ bash access-kubernetes-goat.sh
 12. Gaining environment information
 13. DoS the memory/CPU resources
 14. Hacker Container preview
+15. Hidden in layers
 
 ## ❤️ Showcase
 
@@ -108,4 +123,4 @@ bash access-kubernetes-goat.sh
 
 Thanks goes to these wonderful people 🎉
 
-<table><tr><td align="center"><a href="https://github.com/madhuakula"><img alt="madhuakula" src="https://avatars1.githubusercontent.com/u/6764192?v=4" width="100" /><br />madhuakula</a></td><td align="center"><a href="https://github.com/macagr"><img alt="macagr" src="https://avatars3.githubusercontent.com/u/2797772?v=4" width="100" /><br />macagr</a></td><td align="center"><a href="https://github.com/NF997"><img alt="NF997" src="https://avatars2.githubusercontent.com/u/23374308?v=4" width="100" /><br />NF997</a></td><td align="center"><a href="https://github.com/smoyer64"><img alt="smoyer64" src="https://avatars0.githubusercontent.com/u/328333?v=4" width="100" /><br />smoyer64</a></td><td align="center"><a href="https://github.com/wurstbrot"><img alt="wurstbrot" src="https://avatars2.githubusercontent.com/u/955192?v=4" width="100" /><br />wurstbrot</a></td><td align="center"><a href="https://github.com/podjackel"><img alt="podjackel" src="https://avatars3.githubusercontent.com/u/5067183?v=4" width="100" /><br />podjackel</a></td></tr></table>
+<table><tr><td align="center"><a href="https://github.com/madhuakula"><img alt="madhuakula" src="https://avatars.githubusercontent.com/u/6764192?v=4" width="100" /><br />madhuakula</a></td><td align="center"><a href="https://github.com/macagr"><img alt="macagr" src="https://avatars.githubusercontent.com/u/2797772?v=4" width="100" /><br />macagr</a></td><td align="center"><a href="https://github.com/rewanthtammana"><img alt="rewanthtammana" src="https://avatars.githubusercontent.com/u/22347290?v=4" width="100" /><br />rewanthtammana</a></td><td align="center"><a href="https://github.com/NF997"><img alt="NF997" src="https://avatars.githubusercontent.com/u/23374308?v=4" width="100" /><br />NF997</a></td><td align="center"><a href="https://github.com/smoyer64"><img alt="smoyer64" src="https://avatars.githubusercontent.com/u/328333?v=4" width="100" /><br />smoyer64</a></td><td align="center"><a href="https://github.com/wurstbrot"><img alt="wurstbrot" src="https://avatars.githubusercontent.com/u/955192?v=4" width="100" /><br />wurstbrot</a></td></tr><tr><td align="center"><a href="https://github.com/podjackel"><img alt="podjackel" src="https://avatars.githubusercontent.com/u/5067183?v=4" width="100" /><br />podjackel</a></td></tr></table>
